@@ -4,6 +4,11 @@
   font-family: Arial;
 }
 
+body {
+  background: #666;
+  color: #f3f3f3;
+}
+
 .main {
   width: 50em;
   margin: 20px auto;
